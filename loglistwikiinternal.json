@@ -1,9 +1,9 @@
 {
   "appId": "com.duniandis.loglistwikiinternal",
-  "latestVersionCode": 2,
-  "latestVersionName": "1.1",
-  "minSupportedVersionCode": 2,
-  "downloadUrl": "https://drive.google.com/uc?export=download&id=XXXXXXXXXXXXXXXXXXXX",
+  "latestVersionCode": 1,
+  "latestVersionName": "1.0",
+  "minSupportedVersionCode": 1,
+  "downloadUrl": "https://drive.google.com/uc?export=download&id=1TPao4nBazyjAtNUePmmqskGiOOXrE_lL",
   "title": "Update Wajib",
   "message": "Versi aplikasi Anda sudah tidak didukung. Silakan update untuk melanjutkan.",
   "changelog": "- Perbaikan bug\n- Peningkatan performa"
