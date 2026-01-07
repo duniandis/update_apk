@@ -1,9 +1,9 @@
 {
   "appId": "com.duniandis.mybookjm",
-  "latestVersionCode": 2,
-  "latestVersionName": "1.1",
-  "minSupportedVersionCode": 2,
-  "downloadUrl": "https://drive.google.com/uc?export=download&id=1i0IsvUmpN5QA47Tz1AandBiqw_hvakD6",
+  "latestVersionCode": 1,
+  "latestVersionName": "1.0",
+  "minSupportedVersionCode": 1,
+  "downloadUrl": "https://drive.google.com/uc?export=download&id=1vzGBP82uLAk4vZy-HE-f3VSYz0hj3Imn",
   "title": "Update Wajib",
   "message": "Versi aplikasi Anda sudah tidak didukung. Silakan update untuk melanjutkan.",
   "changelog": "- Perbaikan bug\n- Peningkatan performa"
