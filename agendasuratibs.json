@@ -1,1 +1,10 @@
-
+{
+  "appId": "com.duniandis.mybookjm",
+  "latestVersionCode": 1,
+  "latestVersionName": "1.0",
+  "minSupportedVersionCode": 1,
+  "downloadUrl": "https://github.com/duniandis/agenda_ibs/releases/download/v1/agenda-ibs-v1.apk",
+  "title": "Update Wajib",
+  "message": "Versi aplikasi Anda sudah tidak didukung. Silakan update untuk melanjutkan.",
+  "changelog": "- Perbaikan bug\n- Peningkatan performa"
+}
