@@ -1,10 +1,10 @@
 {
   "appId": "com.duniandis.loglistwikiinternal",
-  "latestVersionCode": 3,
-  "latestVersionName": "1.2",
-  "minSupportedVersionCode": 3,
-  "downloadUrl": "https://github.com/duniandis/loglist_wiki_internal/releases/download/v3/loglistwikiinternal_v3.apk",
+  "latestVersionCode": 4,
+  "latestVersionName": "1.3",
+  "minSupportedVersionCode": 4,
+  "downloadUrl": "https://github.com/duniandis/loglist_wiki_internal/releases/download/v4/loglistwikiinternal_v4.apk",
   "title": "Update Wajib",
   "message": "Versi aplikasi Anda sudah tidak didukung. Jika gagal silahkan klik Buka di Browser.",
-  "changelog": "- Perbaikan bug\n- Penambahan menu STOCK\n -Perbaikan sistem database"
+  "changelog": "- Perbaikan bug\n- Penambahan menu kirim PDF\n -Perbaikan tabel stock"
 }
