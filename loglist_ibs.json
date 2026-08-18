@@ -1,8 +1,8 @@
 {
   "appId": "com.duniandis.loglistibs",
-  "latestVersionCode": 2,
-  "latestVersionName": "1.2",
-  "minSupportedVersionCode": 2,
+  "latestVersionCode": 1,
+  "latestVersionName": "1.1",
+  "minSupportedVersionCode": 1,
   "downloadUrl": "https://github.com/duniandis/loglist_ibs/releases/download/v1/loglistibs_v1.apk",
   "title": "Update Wajib",
   "message": "Versi aplikasi Anda sudah tidak didukung. Jika gagal silahkan klik Buka di Browser.",
