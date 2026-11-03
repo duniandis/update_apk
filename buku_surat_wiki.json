@@ -1,9 +1,9 @@
 {
   "appId": "com.duniandis.mybookwiki",
-  "latestVersionCode": 2,
-  "latestVersionName": "1.1",
-  "minSupportedVersionCode": 2,
-  "downloadUrl": "https://github.com/duniandis/agenda_wiki/releases/download/v2/agenda_wiki_versi2.apk",
+  "latestVersionCode": 3,
+  "latestVersionName": "1.2",
+  "minSupportedVersionCode": 3,
+  "downloadUrl": "https://github.com/duniandis/agenda_wiki/releases/download/v3/myBookWikiv3.apk",
   "title": "Update Wajib",
   "message": "Versi aplikasi Anda sudah tidak didukung. Silakan update untuk melanjutkan.",
   "changelog": "- Perbaikan bug nomor double ketika user buka aplikasi bersamaan\n Nomor akan final ketika di daftar surat dan ditambah berdasarkan input timestamp terbaru"
